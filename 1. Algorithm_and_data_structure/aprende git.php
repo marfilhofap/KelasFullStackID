@@ -9,8 +9,8 @@
  * git restore . / git restore naran.php
  * git restore -s
  * git reset --hard id_commit
- * git checkout -b naran_branches
- * 
- * 
+ * git checkout -b naran_branches : Kria Branch 
+ * git checkout master : Muda ba Master
+ * git merge naran_branch : Merge branch ruma ba Master
  * 
  */
