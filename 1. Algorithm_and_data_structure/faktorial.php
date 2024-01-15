@@ -1,5 +1,5 @@
 <?php
-
+// Comment
 function faktorial($n)
 {
     if ($n == 0 || $n == 1) {
