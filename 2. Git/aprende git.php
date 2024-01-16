@@ -15,3 +15,8 @@
  * git revert id_commit : hodi fila ba Commit balun
  * 
  */
+
+
+//  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDaNbvitpPV7EqLliX3gWDV2fY2Smj0eD7LWOAq2VW54 marfilhofap@gmail.com
+// git remote add origin git@github.com:marfilhofap/KelasFullStackID.git
+// git push origin master
