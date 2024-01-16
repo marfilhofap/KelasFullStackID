@@ -12,5 +12,6 @@
  * git checkout -b naran_branches : Kria Branch 
  * git checkout master : Muda ba Master
  * git merge naran_branch : Merge branch ruma ba Master
+ * git revert id_commit : hodi fila ba Commit balun
  * 
  */
