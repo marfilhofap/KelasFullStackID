@@ -1,0 +1,41 @@
+h1 {
+    color: chartreuse;
+}
+button{
+    color: brown;
+}
+p{
+    background-color: crimson;
+    color: white;
+}
+#lorem {
+    color: black;
+}
+/* DECENDANT */
+p b{
+    background-color: aqua;
+}
+/* Direct Decendant and Ajdacent */
+a + p {
+    background-color: blue;
+}
+
+/* Direct Decendant and Ajdacent */
+a + p {
+    background-color: blue;
+}
+
+/* Altribute Selector */
+a[href="#"]{
+    color: aqua;
+    background-color: black;
+}
+input[type="text"]{
+    color: brown;
+}
+/* Pseudo Class */
+button:hover{
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+}

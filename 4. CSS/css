@@ -1,0 +1,29 @@
+CSS:
+  - Inline
+  - Internal
+  - External
+
+CSS Color:
+  - named color
+  - RGB
+  - Hex
+
+CSS Font Size:
+  - Relative : em, rem, vh, vw, %, etc
+  - Absolute : px, pt, cm, in, mm.
+
+Selector:
+  - Universal Selector : *
+  - Element HTML
+  - Atribute ID #
+  - Atribute Class .
+  - DECENDANT
+  - Direct Decendant and Ajdacent
+  - Altribute Selector
+  - Pseudo Class
+
+    Ex:
+    selector {
+      property : values;
+    }
+  
